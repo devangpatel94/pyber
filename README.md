@@ -1,6 +1,5 @@
 # Pyber
 ## Summary
-* A homework assignment for UC Berkeley's Data Analytics Bootcamp
 * Analysis studies data from a hypothetical ridesharing application (Pyber) using Pandas and MatPlotLib
 * The following conclusions can be reached from the analysis:
   * About two thirds of all rides and total fare value come from urban passengers
